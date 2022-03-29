@@ -1,5 +1,5 @@
 # ```<Hello, World!/>```
-My name is Rodrigo and I'm a young software engineer trying to learn on the job! Here you can see my personal projects, feel free to contact me.
+My name is Rodrigo and I'm a young computer engineer student trying to learn on the job! Here you can see my personal projects, feel free to contact me.
 
 ## 💻 About me
 - The [NBA(PI)](https://thenbapi.herokuapp.com/) creator.
