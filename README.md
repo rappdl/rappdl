@@ -3,7 +3,7 @@ My name is Rodrigo and I'm a young computer engineer student trying to learn on 
 
 ## 💻 About me
 - The [NBA(PI)](https://thenbapi.herokuapp.com/) creator.
-- Software engineer.
+- Software enthusiast.
 - 🇵🇹
 
 ## 📞 Contacts
